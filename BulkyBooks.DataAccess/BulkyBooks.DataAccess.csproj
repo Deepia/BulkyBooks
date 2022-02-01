@@ -20,8 +20,4 @@
     <ProjectReference Include="..\BulkyBooks.Models\BulkyBooks.Models.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repository\IRepository\" />
-  </ItemGroup>
-
 </Project>
